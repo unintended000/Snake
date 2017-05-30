@@ -1,0 +1,10 @@
+C:\Users\Unintended\Documents\Visual Studio 2015\Projects\Snake_Game\Snake_Class\Snake_Class\bin\Debug\Snake_Class.dll
+C:\Users\Unintended\Documents\Visual Studio 2015\Projects\Snake_Game\Snake_Class\Snake_Class\bin\Debug\Snake_Class.pdb
+C:\Users\Unintended\Documents\Visual Studio 2015\Projects\Snake_Game\Snake_Class\Snake_Class\obj\Debug\Snake_Class.dll
+C:\Users\Unintended\Documents\Visual Studio 2015\Projects\Snake_Game\Snake_Class\Snake_Class\obj\Debug\Snake_Class.pdb
+C:\Users\Unintended\Documents\Visual Studio 2015\Projects\Snake_Game\Snake_Class\Snake_Class\obj\Debug\Snake_Class.csprojResolveAssemblyReference.cache
+C:\Users\Unintended\Documents\Visual Studio 2015\Projects\Snake_Game — копия\Snake_Class\Snake_Class\bin\Debug\Snake_Class.dll
+C:\Users\Unintended\Documents\Visual Studio 2015\Projects\Snake_Game — копия\Snake_Class\Snake_Class\bin\Debug\Snake_Class.pdb
+C:\Users\Unintended\Documents\Visual Studio 2015\Projects\Snake_Game — копия\Snake_Class\Snake_Class\obj\Debug\Snake_Class.csprojResolveAssemblyReference.cache
+C:\Users\Unintended\Documents\Visual Studio 2015\Projects\Snake_Game — копия\Snake_Class\Snake_Class\obj\Debug\Snake_Class.dll
+C:\Users\Unintended\Documents\Visual Studio 2015\Projects\Snake_Game — копия\Snake_Class\Snake_Class\obj\Debug\Snake_Class.pdb

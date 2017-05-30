@@ -1,0 +1,22 @@
+C:\Users\Unintended\Documents\Visual Studio 2015\Projects\Snake_Game\Snake_Game\obj\Debug\Snake_Game.Form1.resources
+C:\Users\Unintended\Documents\Visual Studio 2015\Projects\Snake_Game\Snake_Game\obj\Debug\Snake_Game.Properties.Resources.resources
+C:\Users\Unintended\Documents\Visual Studio 2015\Projects\Snake_Game\Snake_Game\obj\Debug\Snake_Game.csproj.GenerateResource.Cache
+C:\Users\Unintended\Documents\Visual Studio 2015\Projects\Snake_Game\Snake_Game\bin\Debug\Snake_Game.exe.config
+C:\Users\Unintended\Documents\Visual Studio 2015\Projects\Snake_Game\Snake_Game\bin\Debug\Snake_Game.exe
+C:\Users\Unintended\Documents\Visual Studio 2015\Projects\Snake_Game\Snake_Game\bin\Debug\Snake_Game.pdb
+C:\Users\Unintended\Documents\Visual Studio 2015\Projects\Snake_Game\Snake_Game\bin\Debug\Snake_Class.pdb
+C:\Users\Unintended\Documents\Visual Studio 2015\Projects\Snake_Game\Snake_Game\obj\Debug\Snake_Game.csprojResolveAssemblyReference.cache
+C:\Users\Unintended\Documents\Visual Studio 2015\Projects\Snake_Game\Snake_Game\obj\Debug\Snake_Game.exe
+C:\Users\Unintended\Documents\Visual Studio 2015\Projects\Snake_Game\Snake_Game\obj\Debug\Snake_Game.pdb
+C:\Users\Unintended\Documents\Visual Studio 2015\Projects\Snake_Game\Snake_Game\bin\Debug\Snake_Class.dll
+C:\Users\Unintended\Documents\Visual Studio 2015\Projects\Snake_Game — копия\Snake_Game\bin\Debug\Snake_Game.exe.config
+C:\Users\Unintended\Documents\Visual Studio 2015\Projects\Snake_Game — копия\Snake_Game\obj\Debug\Snake_Game.exe
+C:\Users\Unintended\Documents\Visual Studio 2015\Projects\Snake_Game — копия\Snake_Game\obj\Debug\Snake_Game.pdb
+C:\Users\Unintended\Documents\Visual Studio 2015\Projects\Snake_Game — копия\Snake_Game\obj\Debug\Snake_Game.csprojResolveAssemblyReference.cache
+C:\Users\Unintended\Documents\Visual Studio 2015\Projects\Snake_Game — копия\Snake_Game\obj\Debug\Snake_Game.Form1.resources
+C:\Users\Unintended\Documents\Visual Studio 2015\Projects\Snake_Game — копия\Snake_Game\obj\Debug\Snake_Game.Properties.Resources.resources
+C:\Users\Unintended\Documents\Visual Studio 2015\Projects\Snake_Game — копия\Snake_Game\obj\Debug\Snake_Game.csproj.GenerateResource.Cache
+C:\Users\Unintended\Documents\Visual Studio 2015\Projects\Snake_Game — копия\Snake_Game\bin\Debug\Snake_Game.exe
+C:\Users\Unintended\Documents\Visual Studio 2015\Projects\Snake_Game — копия\Snake_Game\bin\Debug\Snake_Game.pdb
+C:\Users\Unintended\Documents\Visual Studio 2015\Projects\Snake_Game — копия\Snake_Game\bin\Debug\Snake_Class.dll
+C:\Users\Unintended\Documents\Visual Studio 2015\Projects\Snake_Game — копия\Snake_Game\bin\Debug\Snake_Class.pdb
